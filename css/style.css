@@ -1,0 +1,63 @@
+body {
+    padding-left: 9vw;
+}
+
+header {
+    background: url(../images/logo.png) no-repeat 0 0;
+}
+
+h1,
+h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Marion';
+    color: #ac5251;
+    font-size: 25px;
+    margin-top: 6.5vh;
+    margin-bottom: 8vh;
+}
+
+h1 {
+    font-family: 'Myriad  Pro';
+    color: #88704e;
+    font-size: 41px;
+}
+
+.wrapper {
+    width: 52.5vw;
+    margin: 10vh auto 0;
+    padding: 3vw 4vw 4.5vw 4vw;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.input_wrapper {
+    height: 68px;
+}
+
+.caption {
+    display: inline-block;
+    text-align: left;
+    vertical-align: center;
+    line-height: 34px;
+    width: 130px;
+    font-family: 'Myriad Pro';
+    color: #48417d;
+    font-size: 25px;
+}
+
+.login,
+.password,
+.password_verification {
+    display: inline-block;
+    width: 30.5vw;
+    height: 62px;
+    background-color: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 41px 13px rgba(229,220,201,.34);
+    -moz-box-shadow: 0 0 41px 13px rgba(229,220,201,.34);
+    box-shadow: 0 0 41px 13px rgba(229,220,201,.34);
+}

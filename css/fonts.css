@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Myriad  Pro';
+	src: url('../fonts/MyriadPro-Regular.otf');
+}
+
+@font-face {
+	font-family: 'Marion';
+	src: local('Marion'),
+  url('../fonts/marion.woff2') format('woff2'),
+	url('../fonts/marion.woff') format('woff'),
+  url('../fonts/marion.ttf') format('truetype'),
+  url('../fonts/marion.eot') format('eot');
+}
+
+@font-face {
+	font-family: 'PT Sans';
+	src: url('../fonts/PTSans-Narrow.woff2');
+}
